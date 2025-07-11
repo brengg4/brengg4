@@ -8,8 +8,8 @@ Brenda, but you can call me Bren😄<a><img src="https://github.com/Kathryn-Jie/
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a student at Universidad Mayor de San Simon
-- 🔭: I'm currently working on several small machine learning projects.
-- 🤔: I'm looking for help with anything I'm learning! 😅🤖🧠
+- 🔭: "Don't give up on your dreams, just keep sleeping."😴​😴​
+- 🤔: I'm looking for help with anything I'm learning! 🧠
 - 😄 Pronouns: She/Her
 - ⚡ Fun Fact: I really like sports.💕​ I play basketball and I also like to swim and run 🏊‍♀️​🏃‍♀️​🏀​
   
