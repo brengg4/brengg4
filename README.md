@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">
-Brenda, but you can call me Bren😄<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+Brenda😄<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
